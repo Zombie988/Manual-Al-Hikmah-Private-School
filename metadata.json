@@ -1,0 +1,6 @@
+{
+  "name": "Manhal Al-Hikmah",
+  "description": "Official performance tracking and parent real-time dashboard for Manhal Al-Hikmah Private School (مدرسة منهل الحكمة الخاصة).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

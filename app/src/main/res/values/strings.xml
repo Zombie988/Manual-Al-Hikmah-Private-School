@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">منهل الحكمة</string>
+    <string name="school_title_ar">مدرسة منهل الحكمة الخاصة</string>
+    <string name="school_title_en">Manhal Al-Hikmah Private School</string>
+    <string name="school_subtitle_ar">سجل المتابعة والتقويم التربوي الشامل</string>
+    <string name="school_subtitle_en">Comprehensive Student Tracking &amp; Parent Portal</string>
+    <string name="parent_portal_title">بوابة أولياء الأمور (Parent Portal)</string>
+    <string name="teacher_portal_title">بوابة المعلمات والإدارة (Staff Portal)</string>
+</resources>
